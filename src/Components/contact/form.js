@@ -16,9 +16,9 @@ export default class MyForm extends Component {
         <div class="row">
           <div class="six columns">
             <label>Email:</label>
-            <input type="email" name="email" />
+            <input class="u-full-width" type="email" name="email" />
             <label>Message:</label>
-            <input type="text" name="message" />
+            <textarea class="u-full-width" type="text" name="message" />
             {status === "SUCCESS" ? <p>Thanks!</p> : <button>Submit</button>}
             {status === "ERROR" && <p>Ooops! There was an error.</p>}
           </div>

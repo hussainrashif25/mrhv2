@@ -19,13 +19,17 @@ class work extends Component {
                     <div class="one-half column picture">
                         <Slide left>
                         <div>
-                        <img src={cabana} class="picture"/>
+                            <a href="https://www.cabana.health/">
+                                <img src={cabana} class="picture" alt="Cabana"/>
+                            </a>
                         </div>
                         </Slide>
                     </div>
                     <div class="one-half column text">
                         <Slide right>
-                        <h4>Cabana Health</h4>
+                        <h4>
+                        <a class="link" href="https://www.cabana.health/">Cabana Health</a>
+                        </h4>
                         <p>Currently working here! Developing a social health iOS app using SwiftUI and Google Firebase that will revolutionize how we accomplish health goals.</p> 
                         </Slide>
                     </div>
@@ -34,13 +38,17 @@ class work extends Component {
                     <div class="one-half column picture">
                         <Slide left>
                         <div>
-                        <img src={scorpion} class="picture"/>
+                            <a href="https://github.com/hussainrashif25">
+                                <img src={scorpion} class="picture" alt="Scorpion"/>
+                            </a>                            
                         </div>
                         </Slide>
                     </div>
                     <div class="one-half column text">
                         <Slide right>
-                        <h4>Freelance Work</h4>
+                        <h4>
+                        <a class="link" href="https://github.com/hussainrashif25">Freelance Work</a>
+                        </h4>
                         <p>In progress. Developing a website for a local contractor, using React.js.</p> 
                         </Slide>
                     </div>
