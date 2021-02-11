@@ -1,0 +1,30 @@
+.header {
+    color: black;
+    text-align: center;
+    margin: 25px 0px 25px 0px;
+    border-bottom: medium solid black;
+    padding: 10px 0;
+	font-size: x-large;
+	font-weight: 700;
+    align-content: center;
+}
+
+.picture {
+    text-align: center;
+    width: 25%;
+    height: auto;
+    margin: auto;
+    padding: auto;
+}
+
+.picture-2 {
+    text-align: center;
+    width: 40%;
+    height: auto;
+    margin: auto;
+    padding: auto;
+}
+
+.spacing {
+    margin: 50px 0px 50px 0px;
+}
