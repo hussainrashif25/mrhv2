@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import '../work/work.css';
-import cbt from '../../images/cbt.PNG';
-import rps from '../../images/rps.PNG';
+import icount from '../../images/icount.gif';
+import rps from '../../images/rps.gif';
+import cit from '../../images/cit.gif';
+import ocs from '../../images/ocs.gif';
 import Fade from 'react-reveal/Fade';
 import Slide from 'react-reveal/Slide';
 
@@ -14,6 +16,46 @@ class project extends Component {
                     <Fade bottom>
                     <h1>Projects</h1>
                     </Fade>
+                </div>
+                <div class="row spacing">
+                    <div class="one-half column picture-2">
+                        <Slide left>
+                        <div>
+                            <img src={icount} class="picture-2" alt="Online Cleaning Service"/>
+                        </div>
+                        </Slide>
+                    </div>
+                    <div class="one-half column text">
+                        <Slide right>
+                        <h4>
+                        <a class="link" href="/">iCount</a>
+                        </h4>
+                        <p>iCount, is my 4th year capstone project that used Machine Learning to help businesses track customers in physical retail locations (during the COVID epidemic). The application utilized the YOLOv3 Convolutional Neural Network for object detection and DeepSORT (Simple Online Realtime Tracking) for object tracking. Using a
+customized dataset, the model was trained to detect if people were to close to eachother and to display a counter of the number of people in a store.   
+                             </p>
+                        </Slide>
+                    </div>
+                </div>
+                <div class="row spacing">
+                    <div class="one-half column picture-2">
+                        <Slide left>
+                        <div>
+                            <a href="https://github.com/hussainrashif25/online-cleaning-service-system">
+                                <img src={ocs} class="picture-2" alt="Online Cleaning Service"/>
+                            </a>    
+                        </div>
+                        </Slide>
+                    </div>
+                    <div class="one-half column text">
+                        <Slide right>
+                        <h4>
+                        <a class="link" href="https://github.com/hussainrashif25/online-cleaning-service-system">Online Cleaning Service</a>
+                        </h4>
+                        <p>A school project to create a "Software as a Service" website for customers looking to hire cleaners. 
+                            The website is created with Express.js, Handlebars.js and MongoDB for the database. 
+                            The site allows for "Customers" and "Workers" to register, login, hire/deny service, withdraw payments and search for workers.</p>
+                        </Slide>
+                    </div>
                 </div>
                 <div class="row spacing">
                     <div class="one-half column picture-2">
@@ -41,7 +83,7 @@ class project extends Component {
                         <Slide left>
                         <div>
                             <a href="https://comebackinthrity.netlify.app/">
-                                <img src={cbt} class="picture-2" alt="comebackinthirty"/>
+                                <img src={cit} class="picture-2" alt="comebackinthirty"/>
                             </a>
                         </div>
                         </Slide>
