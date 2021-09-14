@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/mrhv2/static/css/main.16fd6e9f.chunk.css",
-    "main.js": "/mrhv2/static/js/main.c4524e86.chunk.js",
-    "main.js.map": "/mrhv2/static/js/main.c4524e86.chunk.js.map",
-    "runtime-main.js": "/mrhv2/static/js/runtime-main.407e3588.js",
-    "runtime-main.js.map": "/mrhv2/static/js/runtime-main.407e3588.js.map",
-    "static/js/2.8e613195.chunk.js": "/mrhv2/static/js/2.8e613195.chunk.js",
-    "static/js/2.8e613195.chunk.js.map": "/mrhv2/static/js/2.8e613195.chunk.js.map",
-    "static/js/3.941752fd.chunk.js": "/mrhv2/static/js/3.941752fd.chunk.js",
-    "static/js/3.941752fd.chunk.js.map": "/mrhv2/static/js/3.941752fd.chunk.js.map",
-    "index.html": "/mrhv2/index.html",
-    "static/css/main.16fd6e9f.chunk.css.map": "/mrhv2/static/css/main.16fd6e9f.chunk.css.map",
-    "static/js/2.8e613195.chunk.js.LICENSE.txt": "/mrhv2/static/js/2.8e613195.chunk.js.LICENSE.txt",
-    "static/media/cbt.76a729a7.PNG": "/mrhv2/static/media/cbt.76a729a7.PNG",
-    "static/media/rps.2eed664d.PNG": "/mrhv2/static/media/rps.2eed664d.PNG",
-    "static/media/scorpion.f25abd74.jpg": "/mrhv2/static/media/scorpion.f25abd74.jpg"
+    "main.css": "/static/css/main.8e9b6e0b.chunk.css",
+    "main.js": "/static/js/main.c49cc8b0.chunk.js",
+    "main.js.map": "/static/js/main.c49cc8b0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.199927f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.199927f6.js.map",
+    "static/js/2.8e613195.chunk.js": "/static/js/2.8e613195.chunk.js",
+    "static/js/2.8e613195.chunk.js.map": "/static/js/2.8e613195.chunk.js.map",
+    "static/js/3.941752fd.chunk.js": "/static/js/3.941752fd.chunk.js",
+    "static/js/3.941752fd.chunk.js.map": "/static/js/3.941752fd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8e9b6e0b.chunk.css.map": "/static/css/main.8e9b6e0b.chunk.css.map",
+    "static/js/2.8e613195.chunk.js.LICENSE.txt": "/static/js/2.8e613195.chunk.js.LICENSE.txt",
+    "static/media/cit.7e02e5e5.gif": "/static/media/cit.7e02e5e5.gif",
+    "static/media/icount.44ff28ba.gif": "/static/media/icount.44ff28ba.gif",
+    "static/media/ocs.2d5216e8.gif": "/static/media/ocs.2d5216e8.gif",
+    "static/media/rps.17bea2d4.gif": "/static/media/rps.17bea2d4.gif",
+    "static/media/scorpion.f25abd74.jpg": "/static/media/scorpion.f25abd74.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.407e3588.js",
+    "static/js/runtime-main.199927f6.js",
     "static/js/2.8e613195.chunk.js",
-    "static/css/main.16fd6e9f.chunk.css",
-    "static/js/main.c4524e86.chunk.js"
+    "static/css/main.8e9b6e0b.chunk.css",
+    "static/js/main.c49cc8b0.chunk.js"
   ]
 }
